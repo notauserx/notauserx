@@ -1,8 +1,15 @@
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋, stranger. Welcome to notauserx's github. 
 
-![notauserx's GitHub stats](https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact)](https://github.com/notauserx/github-readme-stats)
-
+  <a href="https://github.com/notauserx"><img src="https://img.shields.io/github/stars/notauserx?color=dcdfe4&label=GITHUB&style=flat&logo=github" /></a>
+  <br />
+  <br />
+  ![notauserx's GitHub stats](https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true)
+  </br>
+  </br>
+  [![Top Langs](https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&layout=compact&hide_border=true)](https://github.com/notauserx)
+  
+</div>
 <!--
 **notauserx/notauserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
