@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![notauserx's GitHub stats](https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true)
+
+
 <!--
 **notauserx/notauserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
