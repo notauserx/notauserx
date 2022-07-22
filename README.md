@@ -7,7 +7,7 @@
   ![notauserx's GitHub stats](https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true)
   </br>
   </br>
-  [![Top Langs](https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&layout=compact&hide_border=true&card_width=500)](https://github.com/notauserx)
+  [![Top Langs](https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=600)](https://github.com/notauserx)
   
 </div>
 <!--
