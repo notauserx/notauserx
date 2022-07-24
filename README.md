@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Hi there 👋. Welcome to notauserx's github. </h1>
+  <h3>Hi there 👋, welcome to notauserx's github. </h3>
 
-  <a href="https://github.com/notauserx"><img src="https://img.shields.io/github/stars/notauserx?color=dcdfe4&label=GITHUB&style=flat&logo=github" /></a>
   <br />
   <br />
   ![notauserx's GitHub stats](https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true)
