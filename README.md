@@ -1,6 +1,8 @@
-<div align="center">
+<div>
   <h3>Hi there 👋, welcome to notauserx's github. </h3>
-
+  
+  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?color=4778F7&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="Typing SVG" /></a>
+  
   <br />
   <br />
   
