@@ -1,13 +1,14 @@
 <div>
   <h3>Hi there 👋, welcome to notauserx's github. </h3>
   
-  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=2000&color=4778F7&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=2000&color=4778F7&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="" /></a>
   
   <br />
-  <br />
+  
   
   <details> 
-    <summary>💻 GitHub Profile Stats</summary>  
+    <summary>💻 GitHub Profile Stats</summary>
+    <br />
     <a href="#">
       <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true" />
     </a>
