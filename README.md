@@ -14,7 +14,7 @@
     </a>
     <br />
     <a href="#">
-      <img src="http://github-readme-stats-ml2l6g7pr-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=400&hide=jupyter%20notebook" />
+      <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=400&hide=jupyter%20notebook" />
     </a>
      
  </details>
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   </br>
   </br>
   [![Top Langs](https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=600)](https://github.com/notauserx)
-  
-   <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=400&hide=jupyter%20notebook" />
+  <img src="http://github-readme-stats-ml2l6g7pr-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=400&hide=jupyter%20notebook" />
+   
 -->
