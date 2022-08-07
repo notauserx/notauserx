@@ -5,19 +5,23 @@
   
   <br />
   
-  
+  <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/output/github-contribution-grid-snake.svg">
   <details> 
-    <summary>💻 GitHub Profile Stats</summary>
+    <summary>💻 GitHub Stats</summary>
     <br />
     <a href="#">
       <img src="https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true" />
     </a>
+   </details>
+   
+   <details> 
+   <summary>Top Languages</summary>
     <br />
     <a href="#">
       <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=dark&hide_title=true&langs_count=8&hide_border=true&card_width=400&hide=jupyter%20notebook" />
-    </a>
-     
- </details>
+    </a>    
+  </details>
+  
 </div>
 <!--
 **notauserx/notauserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
