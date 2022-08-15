@@ -1,7 +1,7 @@
 <div>
-  <h3>Hi there 👋, welcome to notauserx's github. </h3>
+  <h3>Hi there 👋 </h3>
   
-  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=2000&color=4778F7&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=3000&color=7B62F7FF&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="" /></a>
   
   <br />
   
