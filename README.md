@@ -6,13 +6,11 @@
   <br />
   
   <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/output/github-contribution-grid-snake.svg">
-  <details> 
-    <summary>💻 GitHub Stats</summary>
+  <p>💻 GitHub Stats</p>
     <br />
-    <a href="#">
-      <img src="https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-    </a>
-   </details>
+  <a href="#">
+    <img src="https://github-readme-stats-notauserx.vercel.app/api?username=notauserx&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  </a>
    
    <details> 
    <summary>Top Languages</summary>
