@@ -1,11 +1,11 @@
 <div>
   <h3>Hi there 👋 </h3>
   
-  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=3000&color=7B62F7FF&lines=Full+stack+developer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://notauserx-readme-typing-svg-mn.herokuapp.com?duration=3000&color=0ad465&lines=Polyglot+programmer.;Building+things+for+the+web.;%E2%99%A5+Open+source." alt="" /></a>
   
   <br />
   
-  <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/output/github-contribution-grid-snake.svg">
+  
   <p>💻 GitHub Stats</p>
     <br />
   <a href="#">
@@ -19,7 +19,9 @@
       <img align="center" src="https://github-readme-stats-notauserx.vercel.app/api/top-langs/?username=notauserx&layout=compact&theme=blue-green&hide_title=true&langs_count=8&hide_border=true&card_width=445&hide=jupyter%20notebook" />
     </a>    
   </details>
+  <br />
   
+  <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/output/github-contribution-grid-snake.svg">
 </div>
 <!--
 **notauserx/notauserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
