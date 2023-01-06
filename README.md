@@ -23,7 +23,7 @@
   </details>
   <br />
   -->
-  <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://github.com/notauserx/notauserx/blob/master/assets/github-contribution-grid-snake.svg">
 
 <!--
 **notauserx/notauserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
